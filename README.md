@@ -38,9 +38,9 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
 ## Examples
 
-![Alternative Model 1](./Images/example_1.png)
+![Alternative Model 1](./Images/sequential_1.png)
 
-![Alternative Model ](./Images/example_2.png)
+![Alternative Model ](./Images/sequential_2.png)
 
 ---
 
